@@ -1,7 +1,7 @@
 import React, { Component, PropTypes } from "react";
 import { Text, View } from "react-native";
 
-import FitImage from "react-native-fit-image";
+import FitImage from "@arrkiin/react-native-fit-image";
 import openUrl from "./util/openUrl";
 import hasParents from "./util/hasParents";
 import applyStyle from "./util/applyStyle";
